@@ -1,7 +1,7 @@
 # Magento 2 Merchant Warrior Payment Gateway
 Merchant Warrior Payment Gateway by Meetanshi integrates Australian leading payment gateway for capturing secure online payments. Merchant warrior is Australia’s best Internet payment gateway that is owned by Brisbane. It offers a level 1 PCI DSS compliant payment gateway that offers secure online payments from customers in an online store.
 
-Owing to its popularity, Meetanshi has developed ***[Magento 2 Merchant Warrior Payment gateway]https://meetanshi.com/magento-2-merchant-warrior-payment-gateway.html)***  to accept quicker online payments directly on the store just within fraction of seconds.
+Owing to its popularity, Meetanshi has developed ***[Magento 2 Merchant Warrior Payment gateway](https://meetanshi.com/magento-2-merchant-warrior-payment-gateway.html)***  to accept quicker online payments directly on the store just within fraction of seconds.
 
 The payment process can be made smooth, secure and convenient with this payment gateway. The module uses a direct payment method where the customers are required to make payments in Magento 2 store itself while placing the order. It supports multiple currencies and thus, can enjoy more sales from a huge customer base!
 
