@@ -42,3 +42,5 @@ Merchant Warrior Payframe: Facilitates customers to check out with the help of a
 ● Facilitates customers from only selected countries to use this payment method.
 
 For more information, visit ***[https://meetanshi.com/magento-2-merchant-warrior-payment-gateway.html](https://meetanshi.com/magento-2-merchant-warrior-payment-gateway.html)***
+
+Need help with installation and configuration? Refer to the User Guide: ***[https://meetanshi.com/docs/magento-2/merchant-warrior-payframe/](https://meetanshi.com/docs/magento-2/merchant-warrior-payframe/)***
